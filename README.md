@@ -10,7 +10,7 @@ Step 1 --> Click on Code and then click on Download ZIP. (as shown in the image 
 
 ![11](https://user-images.githubusercontent.com/81308548/204459983-8d194521-91d2-4541-8a6a-8c0941b18af1.PNG)
 
-Step 2 --> Now extract the downloaded file to the exclusion folder.
+Step 2 --> Now extract the downloaded file
 
 ![Ex](https://user-images.githubusercontent.com/81308548/204460941-3a76a392-c0f2-4858-8d2a-364d07058c5c.PNG)
 
